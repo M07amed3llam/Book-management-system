@@ -39,4 +39,4 @@ A Book Management System built using **ASP.NET MVC5** and **Entity Framework (Co
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/M07amed3llam/Book-management.git
+   git clone https://github.com/M07amed3llam/Book-management-system.git
